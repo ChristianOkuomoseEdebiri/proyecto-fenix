@@ -13,7 +13,7 @@ public class ProcesadorUsuarios {
 
     /**
      * Procesa una lista de cadenas con formato "nombre:rol" y devuelve 
-     * una cadena resumen con los usuarios clasificados.
+     * una cadena resumen con los usuarios clasificados. (probando)
      * * @param usuarios Lista de strings que contienen el nombre y el ID de rol.
      * @return Una cadena de texto con los nombres de administradores e invitados.
      */
