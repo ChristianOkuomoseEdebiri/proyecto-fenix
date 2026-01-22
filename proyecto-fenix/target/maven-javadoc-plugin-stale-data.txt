@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/crist/OneDrive/Desktop/ProyectoFenixx/proyecto-fenix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/crist/OneDrive/Desktop/ProyectoFenixx/proyecto-fenix/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'proyecto-fenix 1.0-SNAPSHOT API'
+com.example
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\src\main\java = 1768936943750
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\allclasses-index.html = 1769117537656
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\allpackages-index.html = 1769117537657
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\element-list = 1769117537625
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\help-doc.html = 1769117537679
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\index-all.html = 1769117537670
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\index.html = 1769117537675
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\member-search-index.js = 1769117537661
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\module-search-index.js = 1769117537658
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\overview-tree.html = 1769117537649
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\package-search-index.js = 1769117537659
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\search.html = 1769117537673
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\tag-search-index.js = 1769117537662
+C:\Users\crist\OneDrive\Desktop\ProyectoFenixx\proyecto-fenix\target\reports\apidocs\type-search-index.js = 1769117537660
